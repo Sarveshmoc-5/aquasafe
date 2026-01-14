@@ -1,0 +1,8 @@
+{
+  "name": "AquaSafe Dashboard",
+  "description": "A premium, government-grade smart water quality monitoring and disease risk prediction system featuring real-time IoT simulation, map integration, and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "bluetooth"
+  ]
+}
